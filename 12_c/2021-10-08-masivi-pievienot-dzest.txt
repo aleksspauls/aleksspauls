@@ -1,0 +1,10 @@
+- Izveido masīvu pilsetas ["Jelgava", "Ķegums", "Lubāna", "Mazsalaca", "Sabile"]
+- Izveido masīvu citasPilsetas ["Ainaži", "Baloži", "Cesvaine", "Dobele", "Gulbene"]
+- pievieno masīvu citasPilsetas masīvam pilsetas
+Turpmākais darbs tikai ar masīvu pilsetas
+- Pievieno masīvam jaunu ierakstu "Iecava"
+- Aiz ieraksta "Ķegums" pievieno ierakstu "Vecpiebalga"
+- Sakārto masīvu alfabētiskā secībā
+- Izdzēs ierakstu "Iecava"
+- Izdzēs pēdējo masīva ierakstu
+- Parādi visus masīva ierakstus pa vienam stabiņā uz leju
